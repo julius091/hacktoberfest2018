@@ -2,7 +2,7 @@
 
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Joshua Mabina
+// AUTHOR: Julius hatibu
 // GITHUB: https://github.com/joshuamabina
 
 console.log('Hello World');
